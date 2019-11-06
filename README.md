@@ -1,2 +1,2 @@
 # MBTextView
-How to display clickable links in UITextView.
+Custom textview with hyperlink in content.
